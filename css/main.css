@@ -1363,7 +1363,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #intro {
 	position: relative;
-	background-image: url(../images/intro-bg.jpg);
+	background-image: url(../billeder/intro-bg.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center top;
@@ -2227,7 +2227,7 @@ header .logo a {
  * ------------------------------------------------------------------- */
 #download {
 	position: relative;
-	background-image: url(../images/download-bg.jpg);
+	background-image: url(../billeder/download-bg.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center top;
